@@ -1,0 +1,22 @@
+{
+  "geode": "4.4.0",
+  "gd": {
+    "win": "2.2074",
+    "android": "2.2074",
+    "mac": "2.2074",
+    "ios": "2.2074"
+  },
+  "id": "artartir.noclip-menu",
+  "name": "NoClip Menu",
+  "version": "v1.0.0",
+  "developer": "Artartir",
+  "description": "Menú para activar y desactivar NoClip desde la pausa.",
+  "settings": {
+    "noclip": {
+      "type": "bool",
+      "name": "NoClip",
+      "description": "Atraviesa obstáculos sin morir.",
+      "default": false
+    }
+  }
+}
